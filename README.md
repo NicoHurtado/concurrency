@@ -17,8 +17,8 @@ The simulation uses **random jiu-jitsu attack names** to illustrate real-time, c
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/jiujitsu-concurrency-simulation.git
-cd jiujitsu-concurrency-simulation
+git clone https://github.com/your-username/concurrency.git
+cd concurrency
 ```
 
 ### 2. Run scripts
